@@ -4,3 +4,5 @@ Getting and Cleaning Data project
 
 
 Unzip Samsung data into working directory and run the R script to produce the output text file
+
+A PDF codebook is provided
